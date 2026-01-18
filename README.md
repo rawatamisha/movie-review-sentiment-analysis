@@ -4,13 +4,13 @@ A beginner-friendly Machine Learning project that classifies movie reviews as **
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 With the growing number of online movie reviews, it becomes difficult to manually analyze public opinion. This project aims to automatically determine whether a given movie review expresses a **positive** or **negative** sentiment using Machine Learning.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * **Dataset Used:** IMDb Movie Reviews Dataset
   https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
@@ -19,7 +19,7 @@ With the growing number of online movie reviews, it becomes difficult to manuall
 
 ---
 
-## ⚙️ Approach
+##  Approach
 
 The project follows a complete end-to-end Machine Learning pipeline:
 
@@ -45,7 +45,7 @@ The project follows a complete end-to-end Machine Learning pipeline:
    * Confusion Matrix
 ---
 
-## 📈 Results
+##  Results
 
 * Achieved good accuracy on test data
 * 84% by Random Forest and 85% by Multinomial Naive Bayes
@@ -54,7 +54,7 @@ The project follows a complete end-to-end Machine Learning pipeline:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python
 * Scikit-learn
@@ -65,25 +65,24 @@ The project follows a complete end-to-end Machine Learning pipeline:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 movie-review-sentiment-analysis/
 │
 ├── sentiment_analysis.ipynb
 ├── README.md
-└── dataset/
 ```
 
 ---
 
-## 🔗 Notebook
+##  Notebook
 
 * Kaggle Notebook: https://www.kaggle.com/code/amisha1571/step-by-step-movie-review-sentiment-analysis
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Try TF-IDF or Word Embeddings
 * Experiment with different ML models
@@ -91,7 +90,7 @@ movie-review-sentiment-analysis/
 
 ---
 
-## 🙌 Conclusion
+##  Conclusion
 
 This project demonstrates the basics of NLP and Machine Learning by building a sentiment analysis system from scratch. It is ideal for beginners looking to understand text preprocessing, feature extraction, and model evaluation.
 
